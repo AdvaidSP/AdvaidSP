@@ -38,17 +38,6 @@ A web application that helps electric vehicle users locate nearby charging stati
 
 ---
 
-### Pet Care Management System
-> PHP · MySQL · PHPMailer
-
-A web-based application for managing pet health records and vaccine reminders.
-
-**Features**
-- Store pet details and vaccination records
-- Automated email reminders for upcoming vaccines
-- User-friendly dashboard for pet owners
-
----
 
 ## 🛠️ Technical Skills
 
